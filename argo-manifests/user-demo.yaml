@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'git@github.com:felixvitec/kubtest-lab2.git' ################# CHANGE ME
+    repoURL: 'git@github.com:felixvitec/kublab2.git' ################# CHANGE ME
     path: user-demo/deploy/ck8s-user-demo
     targetRevision: HEAD
   destination:
